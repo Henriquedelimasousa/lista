@@ -1,0 +1,17 @@
+img {
+    width: 300px;
+    border-style: solid;
+
+}
+#herois{
+    display: flexbox;
+    flex-wrap: wrap;
+    column-count: 3;
+}
+.personagem {
+    width: 300px;
+    margin: 20px;
+text-align: center;
+font-size: 23px;
+
+}
